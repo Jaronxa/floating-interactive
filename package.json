@@ -1,0 +1,23 @@
+{
+  "name": "floating-interactive",
+  "version": "1.0.0",
+  "description": "a floating interactive plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaronxa/floating-interactive.git"
+  },
+  "keywords": [
+    "floating",
+    "interactive"
+  ],
+  "author": "Jaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaronxa/floating-interactive/issues"
+  },
+  "homepage": "https://github.com/Jaronxa/floating-interactive#readme"
+}
